@@ -1,0 +1,8 @@
+D:\visual studio 2012\Orbit_3.13\Orbit\bin\Release\Orbit.exe
+D:\visual studio 2012\Orbit_3.13\Orbit\bin\Release\Orbit.pdb
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.Form1.resources
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.Properties.Resources.resources
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.csproj.GenerateResource.Cache
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.exe
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.pdb
+D:\visual studio 2012\Orbit_3.13\Orbit\obj\Release\Orbit.csprojResolveAssemblyReference.cache
